@@ -51,7 +51,7 @@ The function iterates through the sorted list of parking spots, calculating the 
 
 Constraints:
 The function adheres to the following constraints:
--The number of cars (n) must be between 1 and 10^5.
--The minimum number of cars to be covered by the roof (k) must be between 1 and the total number of cars.
--Each parking spot must be within the range of 1 to 10^14.
--All parking spots taken by cars must be unique.
+*The number of cars (n) must be between 1 and 10^5.
+*The minimum number of cars to be covered by the roof (k) must be between 1 and the total number of cars.
+*Each parking spot must be within the range of 1 to 10^14.
+*All parking spots taken by cars must be unique.
